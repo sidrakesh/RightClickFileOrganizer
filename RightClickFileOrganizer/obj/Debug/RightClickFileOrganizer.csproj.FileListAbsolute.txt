@@ -1,0 +1,9 @@
+c:\users\siddharth\documents\visual studio 2013\Projects\RightClickFileOrganizer\RightClickFileOrganizer\bin\Debug\RightClickFileOrganizer.exe.config
+c:\users\siddharth\documents\visual studio 2013\Projects\RightClickFileOrganizer\RightClickFileOrganizer\bin\Debug\RightClickFileOrganizer.exe
+c:\users\siddharth\documents\visual studio 2013\Projects\RightClickFileOrganizer\RightClickFileOrganizer\bin\Debug\RightClickFileOrganizer.pdb
+c:\users\siddharth\documents\visual studio 2013\Projects\RightClickFileOrganizer\RightClickFileOrganizer\obj\Debug\RightClickFileOrganizer.csprojResolveAssemblyReference.cache
+c:\users\siddharth\documents\visual studio 2013\Projects\RightClickFileOrganizer\RightClickFileOrganizer\obj\Debug\RightClickFileOrganizer.exe
+c:\users\siddharth\documents\visual studio 2013\Projects\RightClickFileOrganizer\RightClickFileOrganizer\obj\Debug\RightClickFileOrganizer.pdb
+C:\Users\Siddharth\Documents\Visual Studio 2013\RightClickFileOrganizer\RightClickFileOrganizer\bin\Debug\RightClickFileOrganizer.exe.config
+C:\Users\Siddharth\Documents\Visual Studio 2013\RightClickFileOrganizer\RightClickFileOrganizer\obj\Debug\RightClickFileOrganizer.exe
+C:\Users\Siddharth\Documents\Visual Studio 2013\RightClickFileOrganizer\RightClickFileOrganizer\obj\Debug\RightClickFileOrganizer.pdb
